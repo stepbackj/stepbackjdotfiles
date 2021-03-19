@@ -1,0 +1,5 @@
+set clipboard+=unnamed
+set ic
+set number
+set hlsearch
+set incsearch
